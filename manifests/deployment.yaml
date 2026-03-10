@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: gitops-lab
-        image: kw3783/gitops-lab:v1
+        image: kw3783/gitops-lab:v2
         ports:
         - containerPort: 8080
